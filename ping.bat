@@ -24,7 +24,7 @@ cls
 color 2
 title JavawPing 1.2.0 (Stage 2/5)
 echo Stage 2/5
-echo Currently optimizing inbound connections
+echo Currently pinging 126.0.0.1
 timeout 2
 ping 127.0.0.1 -n 5 >nul
 echo Stage 2/5 has finished

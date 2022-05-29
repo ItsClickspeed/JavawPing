@@ -55,7 +55,7 @@ cls
 color 5
 title JavawPing 1.2.0 (Stage 5/5)
 echo Stage 5/5
-echo Currently cecking that Optimizations are working correctly
+echo Currently starting BITS service
 timeout 2
 sc start BITS
 echo Stage 5/5 has finished
